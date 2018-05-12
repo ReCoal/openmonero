@@ -1,4 +1,4 @@
-# Open Monero - a fully open sourced implementation of MyMonero backend
+# Open Monero - a fully open sourced implementation of MyMonero backend (For ReCoal) (under development)
 
 In this example [restbed](https://github.com/Corvusoft/restbed/) is used to
 demonstrate how to provide Monero related JSON REST service. For this purpose,
