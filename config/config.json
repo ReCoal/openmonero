@@ -2,9 +2,9 @@
   "daemon-url" :
   {
     "_comment" : "RPC urls to monero deamon",
-    "mainnet"  : "http://127.0.0.1:18081",
-    "testnet"  : "http://127.0.0.1:28081",
-    "stagenet" : "http://127.0.0.1:38081"
+    "mainnet"  : "http://127.0.0.1:12122",
+    "testnet"  : "http://127.0.0.1:22122",
+    "stagenet" : "http://127.0.0.1:32122"
   },
   "blockchain-path" :
   {
